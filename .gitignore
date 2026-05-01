@@ -1,0 +1,10 @@
+node_modules
+dist
+.env
+.env.local
+*.log
+.DS_Store
+.idea
+.vscode
+auth_info_baileys
+sessions
